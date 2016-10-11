@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 OCT 2016 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 OCT 2016 00:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,15 +635,15 @@ ract.aux) )
 Here is how much of TeX's memory you used:
  15241 strings out of 493089
  290513 string characters out of 6134842
- 334065 words of memory out of 5000000
+ 335063 words of memory out of 5000000
  18457 multiletter control sequences out of 15000+600000
  8592 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,54p,425b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,5n,54p,1239b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r12.pfb>
-Output written on Abstract.pdf (1 page, 24340 bytes).
+Output written on Abstract.pdf (1 page, 27227 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream

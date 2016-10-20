@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 OCT 2016 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 OCT 2016 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -615,20 +615,6 @@ e
 \c@lstlisting=\count138
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 18--23
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--23
 
@@ -644,17 +630,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--23
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 15241 strings out of 493089
- 290513 string characters out of 6134842
+ 15199 strings out of 493089
+ 289882 string characters out of 6134842
  339065 words of memory out of 5000000
- 18457 multiletter control sequences out of 15000+600000
- 8592 words of font info for 33 fonts, out of 8000000 for 9000
+ 18434 multiletter control sequences out of 15000+600000
+ 4245 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,54p,2698b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,5n,54p,2656b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr12.pfb>
-Output written on Abstract.pdf (1 page, 30232 bytes).
+Output written on Abstract.pdf (1 page, 29769 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream

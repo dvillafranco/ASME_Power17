@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 NOV 2016 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 NOV 2016 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -131,9 +131,6 @@ Underfull \hbox (badness 10000) detected at line 80
 []
  []
 
-
-LaTeX Warning: Citation `asmemanual' on page 1 undefined on input line 98.
-
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 99.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
@@ -146,97 +143,116 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 Non-PDF special ignored!
 
 ]
-Underfull \hbox (badness 1033) in paragraph at lines 137--138
+Underfull \vbox (badness 2990) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 1033) in paragraph at lines 153--154
 []\OT1/ptm/m/n/10 Equations should be num-bered con-sec-u-tively be-gin-ning
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 177.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 161.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 177.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 192.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 192.
-[2]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 209.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 225.
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [3]
+(./asme2e.bbl
+Underfull \hbox (badness 1292) in paragraph at lines 4--8
+[]\OT1/ptm/m/n/10 ASME, 2003.  \OT1/ptm/m/it/10 ASME Man-ual MS-4, An ASME Pa-
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 4--8
+\OT1/ptm/m/it/10 per\OT1/ptm/m/n/10 , lat-est ed.  The Amer-i-can So-ci-ety of 
+Me-
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 4--8
+\OT1/ptm/m/n/10 chan-i-cal En-gi-neers, New York.  See also URL
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 10--15
+[]\OT1/ptm/m/n/10 SIB, 2016.  Ab-stract of Statis-tics.  Mid-year es-ti-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 10--15
+\OT1/ptm/m/n/10 Drive, Bel-mopan, Be-lize, Oc-to-ber.  See also URL
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 17--23
+[]\OT1/ptm/m/n/10 Cischler, C., Ro-driguez, E., Sanchez, L., Tor-res, C.,
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 38--44
+[]\OT1/ptm/m/n/10 ASR, 2015.  Trans-form-ing Sugar Pro-duc-tion in Be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+\OT1/ptm/m/n/10 lize into a Mod-ern, Sus-tain-able, Green Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+\OT1/ptm/m/n/10 Con-tribut-ing to Jobs, Growth and En-ergy Se-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+\OT1/ptm/m/n/10 rity.  Strate-gic plan, Amer-i-can Sugar Re-fin-ing
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 38--44
+\OT1/ptm/m/n/10 Inc., Bel-mopan, Be-lize, Oc-to-ber.  See also URL
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 58.
 )
+Underfull \vbox (badness 1533) has occurred while \output is active []
 
-LaTeX Warning: Citation `latex' on page 3 undefined on input line 211.
+ [4]
+[5
 
-
-LaTeX Warning: Citation `goosens' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `art' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `blt' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `ibk' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `icn' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `ips' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `mts' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `mis' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `pro' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `pts' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `trt' on page 3 undefined on input line 211.
-
-
-LaTeX Warning: Citation `upd' on page 3 undefined on input line 211.
-
-
-Overfull \vbox (6.75781pt too high) has occurred while \output is active []
-
-
-No file asme2e.bbl.
-[3] (./asme2e.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./asme2e.aux) ) 
 Here is how much of TeX's memory you used:
- 666 strings out of 493089
- 8147 string characters out of 6134842
- 64802 words of memory out of 5000000
- 4166 multiletter control sequences out of 15000+600000
- 46210 words of font info for 88 fonts, out of 8000000 for 9000
+ 677 strings out of 493089
+ 8275 string characters out of 6134842
+ 66802 words of memory out of 5000000
+ 4173 multiletter control sequences out of 15000+600000
+ 47839 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  26i,10n,23p,2230b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/ut
-mr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-
-Output written on asme2e.pdf (3 pages, 114547 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.e
+nc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on asme2e.pdf (5 pages, 126301 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

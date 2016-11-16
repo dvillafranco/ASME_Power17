@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: asme2e.aux
+The style file: asmems4.bst
+Database file #1: asme2e.bib
+You've used 19 entries,
+            1984 wiz_defined-function locations,
+            605 strings with 5641 characters,
+and the built_in function-call counts, 3597 in all, are:
+= -- 334
+> -- 123
+< -- 5
++ -- 52
+- -- 33
+* -- 209
+:= -- 603
+add.period$ -- 72
+call.type$ -- 19
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 182
+empty$ -- 375
+format.name$ -- 33
+if$ -- 812
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 8
+newline$ -- 112
+num.names$ -- 25
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 64
+swap$ -- 39
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 33
+width$ -- 21
+write$ -- 271

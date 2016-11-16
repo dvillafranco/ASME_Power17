@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}
+
+\bibitem{asmemanual}
+{ASME}, 2003.
+\newblock {\em {ASME} Manual {MS-4}, An {ASME} Paper}, latest~ed.
+\newblock The American Society of Mechanical Engineers, New York.
+\newblock See also URL \verb+http://www.asme.org/pubs/MS4.html+.
+
+\bibitem{sib_pop}
+SIB, 2016.
+\newblock {Abstract of Statistics}.
+\newblock Mid-year estimates, Statistical Institute of Belize, 1902
+  Constitution Drive, {Belmopan, Belize}, October.
+\newblock See also URL \verb+http://www.sib.org.bz+.
+
+\bibitem{idb_energy}
+Cischler, C., Rodriguez, E., Sanchez, L., Torres, C., Servetti, G., and Olson,
+  L., 2016.
+\newblock {The Energy Sector in Belize}.
+\newblock Technical Note AR-15, Inter-American Development Bank, 024 Newtown
+  Barracks Rd, {Belize City, Belize}, October.
+\newblock See also URL \verb+http://www.iadb.org+.
+
+\bibitem{bel_report}
+BEL, 2015.
+\newblock {Annual Report}.
+\newblock Annual Report No. IDB-TN-721, Belize Electricity Limited, 2 1/2 Miles
+  Northern Highway, {Belize City, Belize}, October.
+\newblock See also URL \verb+http://www.bel.com.bz+.
+
+\bibitem{bel_eng_policy}
+Tillet, A., Locke., J., and Mencias, J., 2011.
+\newblock {National Energy Policy Framework}.
+\newblock Technical report, Government of Belize, ,{Belmopan, Belize}, October.
+\newblock See also URL \verb+http://www.belize.gov.bz+.
+
+\bibitem{asr_report}
+ASR, 2015.
+\newblock {Transforming Sugar Production in Belize into a Modern, Sustainable,
+  Green Model, Contributing to Jobs, Growth and Energy Security}.
+\newblock Strategic plan, American Sugar Refining Inc., {Belmopan, Belize},
+  October.
+\newblock See also URL \verb+http://www.sugarindustryofbelize.com/+.
+
+\bibitem{latex}
+Lamport, L., 1986.
+\newblock {\em \LaTeX: a Document Preparation System}.
+\newblock Addison-Wesley, Reading, MA.
+
+\bibitem{goosens}
+Goosens, M., Mittelbach, F., and Samarin, A., 1994.
+\newblock {\em The \LaTeX\ Companion}.
+\newblock Addison-Wesley, Reading, MA.
+
+\bibitem{art}
+Author, A., Author, B., and Author, C., 1994.
+\newblock ``Article {T}itle''.
+\newblock {\em Journal {N}ame, \textbf{ 1}}(5), May, pp.~1--3.
+
+\bibitem{blt}
+Booklet, A., 1994.
+\newblock Booklet title.
+\newblock On the WWW, at \verb+http://www.abc.edu+, May.
+\newblock PDF file.
+
+\bibitem{ibk}
+Inbook, A., ed., 1991.
+\newblock {\em Book title}, $1^{st}$~ed., Vol.~2 of {\em {Series Title}}.
+\newblock Publisher {N}ame, Publisher address, {Chap.}~1, pp.~1--3.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{icn}
+Incollection, A., 1991.
+\newblock ``Article title''.
+\newblock In {\em Collection {T}itle}, A.~Editor, ed., $3^{rd}$~ed., Vol.~2 of
+  {\em Series title}. Publisher {N}ame, Publisher address, May, {C}hapter~1,
+  pp.~1--3.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{ips}
+Inproceedings, A., 1991.
+\newblock ``Article title''.
+\newblock In Proceedings {T}itle, A.~Editor and B.~Editor, eds., Vol.~{\bf 1}
+  of {\em Series name}, Organization {N}ame, Publisher {N}ame, pp.~1--3.
+\newblock Paper number 1234.
+
+\bibitem{mts}
+Mastersthesis, A., 2003.
+\newblock ``{Thesis Title}''.
+\newblock {MS Thesis}, University of Higher Education, Cambridge, {MA}, May.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{mis}
+Misc, A., 2003.
+\newblock Miscellaneous {T}itle.
+\newblock On the WWW, May.
+\newblock URL \verb+http://www.abc.edu+.
+
+\bibitem{pro}
+Proceedings, A., ed., 1991.
+\newblock Volume {T}itle, Vol.~1 of {\em Proceedings {S}eries}, Organization
+  {N}ame, Publisher {N}ame.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{pts}
+Phdthesis, A., 2003.
+\newblock ``{Thesis Title}''.
+\newblock {PhD Thesis}, University of Higher Education, Cambridge, {MA}, May.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{trt}
+Techreport, A., 2003.
+\newblock {Techreport title}.
+\newblock Progress report~1, University of Higher Education, Cambridge, {MA},
+  May.
+\newblock See also URL \verb+http://www.abc.edu+.
+
+\bibitem{upd}
+Unpublished, A., 2003.
+\newblock {Unpublished document title}.
+\newblock See also URL \verb+http://www.abc.edu+, May.
+
+\end{thebibliography}

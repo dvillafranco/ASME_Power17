@@ -1,10 +1,8 @@
 \begin{thebibliography}{10}
 
-\bibitem{asmemanual}
-{ASME}, 2003.
-\newblock {\em {ASME} Manual {MS-4}, An {ASME} Paper}, latest~ed.
-\newblock The American Society of Mechanical Engineers, New York.
-\newblock See also URL \verb+http://www.asme.org/pubs/MS4.html+.
+\bibitem{energy_future}
+InternationalEnergyAgency.
+\newblock ``Towards a sustainable energy future''.
 
 \bibitem{sib_pop}
 SIB, 2016.
@@ -34,6 +32,22 @@ Tillet, A., Locke., J., and Mencias, J., 2011.
 \newblock Technical report, Government of Belize, ,{Belmopan, Belize}, October.
 \newblock See also URL \verb+http://www.belize.gov.bz+.
 
+\bibitem{ministry_strat}
+G.O.B, 2012.
+\newblock {Integrating energy, science and technology into national development
+  planning and decision making to catalyze sustainable development}.
+\newblock Strategic plan, Government of Belize: Ministry of Science, Energy,
+  and Technology and Public Utilities, {Belmopan, Belize}, September.
+\newblock See also URL \verb+http://www.publicservice.gov.bz/+.
+
+\bibitem{phd_belizesugar}
+Campbell, R.~M., 2013.
+\newblock ``{Transformations in the Belize Sugar Industry: From Colonial
+  Plantations to a Vital Tourist Industry}''.
+\newblock {PhD Thesis}, University of North Carolina at Greensboro, Greensboro,
+  {NC}.
+\newblock See also URL \verb+https://libres.uncg.edu+.
+
 \bibitem{asr_report}
 ASR, 2015.
 \newblock {Transforming Sugar Production in Belize into a Modern, Sustainable,
@@ -42,82 +56,84 @@ ASR, 2015.
   October.
 \newblock See also URL \verb+http://www.sugarindustryofbelize.com/+.
 
-\bibitem{latex}
-Lamport, L., 1986.
-\newblock {\em \LaTeX: a Document Preparation System}.
-\newblock Addison-Wesley, Reading, MA.
+\bibitem{santander_flex}
+Santander, 2016.
+\newblock {Mid-Year Update}.
+\newblock See also URL \verb+http://www.santandersugar.com/news/+, July.
 
-\bibitem{goosens}
-Goosens, M., Mittelbach, F., and Samarin, A., 1994.
-\newblock {\em The \LaTeX\ Companion}.
-\newblock Addison-Wesley, Reading, MA.
+\bibitem{imf_issues}
+Bouhga-Hagbe, J., Okwuokei, J., Ronci, M., and Tintchev, K., 2015.
+\newblock {Transforming Sugar Production in Belize into a Modern, Sustainable,
+  Green Model, Contributing to Jobs, Growth and Energy Security}.
+\newblock IMF Country Report No. 16/93, International Monetary Fund,
+  {Washington, D.C.}, March.
+\newblock See also URL \verb+http://www.imf.org/+.
 
-\bibitem{art}
-Author, A., Author, B., and Author, C., 1994.
-\newblock ``Article {T}itle''.
-\newblock {\em Journal {N}ame, \textbf{ 1}}(5), May, pp.~1--3.
-
-\bibitem{blt}
-Booklet, A., 1994.
-\newblock Booklet title.
-\newblock On the WWW, at \verb+http://www.abc.edu+, May.
-\newblock PDF file.
-
-\bibitem{ibk}
-Inbook, A., ed., 1991.
-\newblock {\em Book title}, $1^{st}$~ed., Vol.~2 of {\em {Series Title}}.
-\newblock Publisher {N}ame, Publisher address, {Chap.}~1, pp.~1--3.
-\newblock See also URL \verb+http://www.abc.edu+.
-
-\bibitem{icn}
-Incollection, A., 1991.
-\newblock ``Article title''.
-\newblock In {\em Collection {T}itle}, A.~Editor, ed., $3^{rd}$~ed., Vol.~2 of
-  {\em Series title}. Publisher {N}ame, Publisher address, May, {C}hapter~1,
-  pp.~1--3.
-\newblock See also URL \verb+http://www.abc.edu+.
-
-\bibitem{ips}
-Inproceedings, A., 1991.
-\newblock ``Article title''.
-\newblock In Proceedings {T}itle, A.~Editor and B.~Editor, eds., Vol.~{\bf 1}
-  of {\em Series name}, Organization {N}ame, Publisher {N}ame, pp.~1--3.
-\newblock Paper number 1234.
-
-\bibitem{mts}
-Mastersthesis, A., 2003.
-\newblock ``{Thesis Title}''.
-\newblock {MS Thesis}, University of Higher Education, Cambridge, {MA}, May.
-\newblock See also URL \verb+http://www.abc.edu+.
-
-\bibitem{mis}
-Misc, A., 2003.
-\newblock Miscellaneous {T}itle.
+\bibitem{paris_caricom}
+Ramos, A., 2016.
+\newblock Caricom bloc signs and 5 member states ratify historic paris
+  agreement on climate change.
 \newblock On the WWW, May.
-\newblock URL \verb+http://www.abc.edu+.
+\newblock URL \verb+http://www.caricom.org+.
 
-\bibitem{pro}
-Proceedings, A., ed., 1991.
-\newblock Volume {T}itle, Vol.~1 of {\em Proceedings {S}eries}, Organization
-  {N}ame, Publisher {N}ame.
-\newblock See also URL \verb+http://www.abc.edu+.
+\bibitem{carib_energy_trends}
+Shirley, R., and Kammen, D., 2013.
+\newblock ``Renewable energy sector development in the caribbean: Current
+  trends and lessons from history''.
+\newblock {\em Energy Policy, \textbf{ 57}}(2013), January, pp.~244--252.
 
-\bibitem{pts}
-Phdthesis, A., 2003.
-\newblock ``{Thesis Title}''.
-\newblock {PhD Thesis}, University of Higher Education, Cambridge, {MA}, May.
-\newblock See also URL \verb+http://www.abc.edu+.
+\bibitem{gen_pol_stab}
+Kydland, F., and Prescott, C., 1977.
+\newblock ``Rules rather than discretion: The inconsistency of optimal plans''.
+\newblock {\em Journal of Political Economy, \textbf{ 85}}(3), June,
+  pp.~473--492.
 
-\bibitem{trt}
-Techreport, A., 2003.
-\newblock {Techreport title}.
-\newblock Progress report~1, University of Higher Education, Cambridge, {MA},
-  May.
-\newblock See also URL \verb+http://www.abc.edu+.
+\bibitem{carib_pol_stab}
+White, W., Lunnan, A., Nybakk, E., and Kulisic, B., 2013.
+\newblock ``The role of governments in renewable energy: The importance of
+  policy consistency''.
+\newblock {\em Biomass and Bioenergy, \textbf{ 57}}(2013), January,
+  pp.~97--105.
 
-\bibitem{upd}
-Unpublished, A., 2003.
-\newblock {Unpublished document title}.
-\newblock See also URL \verb+http://www.abc.edu+, May.
+\bibitem{econ_richardson}
+Richardson, R.~B., 2007.
+\newblock ``Economic development in belize: Two steps forward, two steps
+  back''.
+
+\bibitem{worldbank_stats}
+Bank, T.~W., 2016.
+\newblock {Belize}.
+\newblock World bank country overview, The World Bank, {Washington, D.C.},
+  September.
+\newblock See also URL \verb+http://www.worldbank.org/+.
+
+\bibitem{mcnab_santander}
+Santander, 2015.
+\newblock {Santander}.
+\newblock Magazine, November.
+
+\bibitem{Crook}
+Crook, C.
+\newblock ``Third world economic development''.
+\newblock {\em Library of Economics and Liberty, \textbf{ 1993}}.
+
+\bibitem{arthur_lewis}
+Downes, A., 2004.
+\newblock Arthur lewis and industrial development in the caribbean: An
+  assessment.
+\newblock University of the West Indies Press, June.
+
+\bibitem{biomass_comp}
+Laser, M., Dale, B., Wang, M., Greene, N., and Lynd, L., 2009.
+\newblock ``Comparative analysis of efficiency, environmental impact, and
+  process economics for mature biomass refining scenarios''.
+\newblock {\em Biofuels, Bioprod. Bioref., \textbf{ 2009}}(3), January,
+  pp.~247--270.
+
+\bibitem{brazil_no}
+Seabra, J., and Macedo, I., 2010.
+\newblock ``Comparative analysis for power generation and ethanol production
+  from sugarcane residual biomass in brazil''.
+\newblock {\em Energy Policy., \textbf{ 2011}}(39), November, pp.~421--428.
 
 \end{thebibliography}

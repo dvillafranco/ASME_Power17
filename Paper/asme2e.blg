@@ -3,44 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: asme2e.aux
 The style file: asmems4.bst
 Database file #1: asme2e.bib
-You've used 19 entries,
+Warning--empty year in energy_future
+Warning--empty journal in energy_future
+Warning--empty journal in econ_richardson
+Warning--empty institution in mcnab_santander
+Warning--empty year in Crook
+You've used 21 entries,
             1984 wiz_defined-function locations,
-            605 strings with 5641 characters,
-and the built_in function-call counts, 3597 in all, are:
-= -- 334
-> -- 123
-< -- 5
-+ -- 52
-- -- 33
-* -- 209
-:= -- 603
-add.period$ -- 72
-call.type$ -- 19
-change.case$ -- 24
+            617 strings with 6972 characters,
+and the built_in function-call counts, 4066 in all, are:
+= -- 373
+> -- 144
+< -- 3
++ -- 62
+- -- 41
+* -- 239
+:= -- 659
+add.period$ -- 71
+call.type$ -- 21
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 182
-empty$ -- 375
-format.name$ -- 33
-if$ -- 812
+cite$ -- 26
+duplicate$ -- 191
+empty$ -- 407
+format.name$ -- 41
+if$ -- 924
 int.to.chr$ -- 0
-int.to.str$ -- 19
+int.to.str$ -- 21
 missing$ -- 8
-newline$ -- 112
-num.names$ -- 25
+newline$ -- 116
+num.names$ -- 21
 pop$ -- 53
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 51
+skip$ -- 85
 stack$ -- 0
-substring$ -- 64
-swap$ -- 39
-text.length$ -- 5
+substring$ -- 147
+swap$ -- 58
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 33
-width$ -- 21
-write$ -- 271
+warning$ -- 5
+while$ -- 34
+width$ -- 23
+write$ -- 261
+(There were 5 warnings)
